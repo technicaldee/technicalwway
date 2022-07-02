@@ -8,11 +8,9 @@
 </main><!-- / end page container, begun in the header -->
 
 <footer class="site-footer">
-	<div class="site-info container">
+	<div class="container site-info">
 		
-		<p>Birthed <a href="http://bckmn.com/naked-wordpress" rel="theme">Naked</a> 
-			on <a href="http://wordpress.org" rel="generator">Wordpress</a> 
-			by <a href="http://bckmn.com" rel="designer">Joshua Beckman</a>
+		<p> <a href="http://technicaldee.com" rel="theme">TechnicalWway</a> 
 		</p>
 		
 	</div><!-- .site-info -->

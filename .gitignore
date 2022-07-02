@@ -11,5 +11,6 @@ sitemap.xml
 wp-content/cache/
 wp-content/backups/
 sitemap.xml
+node_modules/
 sitemap.xml.gz
 .DS_Store
